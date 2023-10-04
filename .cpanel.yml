@@ -2,4 +2,4 @@
 deployment:
  tasks:
  - export DEPLOYPATH=/home/besx6985/repositories/BII_frontend_web/
- - /-R images $DEPLOYPATH
+ - -R images $DEPLOYPATH
