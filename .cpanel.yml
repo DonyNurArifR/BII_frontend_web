@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/besx6985/public_html/
-    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R public/* $DEPLOYPATH
